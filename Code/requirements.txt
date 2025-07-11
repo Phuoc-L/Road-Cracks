@@ -1,0 +1,11 @@
+gdown
+ultralytics
+tqdm
+pycocotools
+opencv-python
+torch==<version>+cu118 --index-url https://download.pytorch.org/whl/cu118
+torchvision==<version>+cu118 --index-url https://download.pytorch.org/whl/cu118
+torchaudio==<version>+cu118 --index-url https://download.pytorch.org/whl/cu118
+onnx
+onnxruntime
+openvino

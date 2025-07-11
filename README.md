@@ -39,4 +39,3 @@ pip install -r requirements.txt
 # Start the application
 python app.py
 ```
-# Road-Cracks
